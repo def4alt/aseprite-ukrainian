@@ -1,0 +1,16 @@
+{
+  "name": "aseprite-ukrainian",
+  "displayName": "ua",
+  "description": "Ukrainian translation by Andrii Olkhovych",
+  "version": "0.1",
+  "publisher": "Andrii Olkhovych",
+  "author": { "name": "Andrii Olkhovych", "url": "https://github.com/def4alt" },
+  "categories": [
+    "Languages"
+  ],
+  "contributes": {
+    "languages": [
+      { "id": "ua", "path": "./ua.ini" }
+    ]
+  }
+}
