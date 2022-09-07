@@ -1,1 +1,30 @@
 * Ukrainian translation of Aseprite
+#+attr_html: :width 100px
+#+attr_latex: :width 100px
+[[./ua.png]]
+This is a translation of Aseprite to beloved Ukrainian.
+#+attr_html: :width 1000px
+#+attr_latex: :width 1000px
+[[./preview.png]]
+
+** Встановлення
+- Завантажте код проєкту як файл .zip.
+- Розпакуйте цей файл.
+- Знайдіть корневу папку Aseprite та перейдіть до папки =data=.
+- Cкопіюйте туди папку =fonts= з архіву з заміною файлів.
+- Відкрийте Aseprite.
+- Перейдіть до ~Edit -> Preferences -> Extensions~ та натисніть =Add Extension=.
+- У файловому діалозі виберіть архів та натисніть =Ok=.
+** Зміна Мови
+- Перейдіть до ~Edit -> Preferences -> General~ та під секцією =Language= оберіть =ua=.
+
+** Installation
+- Download the source code of the project as a .zip file.
+- Unpack it.
+- Find Aseprite root folder and go to =data=.
+- Copy =fonts= folder from the archive to the folder, replacing the files.
+- Open Aseprite.
+- Head to ~Edit -> Preferences -> Extensions~ and click =Add Extension=.
+- In file dialog select the archive and click =Ok=.
+** Switch Language
+- Head to ~Edit -> Preferences -> General~ and under =Language= select =ua=.
